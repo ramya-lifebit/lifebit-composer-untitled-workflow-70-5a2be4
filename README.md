@@ -24,6 +24,15 @@ The present workflow is composed by the following unique components (Note that s
 **Parameters**: 0\
 **Authors**: @rpetit3
 
+### lifebitai_test_python
+
+**Description**: A mock python script.\
+**Inputs**: 1\
+**Outputs**: 0\
+**Parameters**: 0\
+**Authors**: 
+
 ## Inputs
 
 - `--abricate_run_1.meta_assembly`: 
+- `--test_python_1.accessions`: Accession file CSV file with a label in the first column and the accession number in the second column.
